@@ -37,3 +37,20 @@ main {
 header h1 {
   text-align: center;
 }
+
+h2 {
+  margin: 10px 0!important;
+}
+
+
+.item {
+  border: 1px solid #D4D4D5!important;
+  border-bottom: none!important;
+  border-top-left-radius: 5px!important;
+  border-top-right-radius: 5px!important;
+}
+
+.Card {
+  height: 675px!important;
+}
+
